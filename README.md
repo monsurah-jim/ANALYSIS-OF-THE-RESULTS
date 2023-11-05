@@ -25,6 +25,8 @@ Q8). Which particular brand generated the highest profit in Senegal? Castle lite
 
 
 BRAND ANALYSIS
+
+
 Q1). Within the last two years, the brand manager wants to know the top three brands consumed in the 
 francophone countries.
 <img width="464" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/d087c240-e572-4bd4-9842-e28a3ef1ded6">
@@ -56,6 +58,8 @@ Q9).Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decisio
 
 
 GEO-LOCATION ANALYSIS
+
+
 Q1).Country with the highest consumption of beer. 
 <img width="470" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/3131df13-d5bf-4d6c-9162-35f8249f578a">
 
