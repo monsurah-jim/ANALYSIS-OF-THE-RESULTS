@@ -1,4 +1,10 @@
- ANALYSIS-OF-THE-RESULTS
+ANALYSIS- OF- DRINK
+
+This is an analysis of drinks consumption across five countries in Africa from the year 2017-19.
+
+
+
+ANALYSIS-OF-THE-RESULTS
 
  
 Q1). Within the space of the last three years, what was the profit worth of the breweries,  inclusive of the anglophone and the francophone territories? The company has made a total profit of #105,587,420 across the five (5) countries in Africa from 2017 -2019.
