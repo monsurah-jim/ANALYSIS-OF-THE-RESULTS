@@ -132,7 +132,7 @@ Q3). Country with the highest profit of the fourth quarter in 2019
 
 
 
-OBSERVATION
+
 
 
 
