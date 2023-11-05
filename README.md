@@ -1,3 +1,8 @@
+## PROJECT TITLE
+
+The international breweries data recorded for the duration of three years 2017-2019.
+
+
 ##  ANALYSIS- OF-DRINKS
 
 This is an analysis of drinks consumption across five Africa countries for the year 2019.
@@ -179,6 +184,8 @@ Q3). Country with the highest profit of the fourth quarter in 2019
 
 
  ## RECOMMENDATIONS
+
+ The recommendation can vary depending on the specific insights derived from the analysis like marketing strategies, quality control,cost analysis, customer segmentation, seasonal trends, products performance and sustainability.
 
  
 
