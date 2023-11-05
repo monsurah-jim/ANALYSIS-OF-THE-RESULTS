@@ -1,5 +1,47 @@
+##  ANALYSIS- OF-DRINKS
 
-ANALYSIS-OF-THE-RESULTS
+This is an analysis of drinks consumption across five Africa countries for the year 2019.
+
+
+<img width="614" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/8acdf409-ab73-4348-8fc4-07405e4cfe63">
+
+
+## OBJECTIVES/AIM
+
+There is particularcompany who deals with selling of drinks across Africa countries, the company has different products in Africa, so they need us to help them uncover some insights from their 3 years data so has to help them make decision for the coming fiscal year of 2020.
+
+
+## DATA SOURCE
+
+The dataset was gotten from the company and it's a CSV file.
+
+![image](https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/735cdb63-2a0a-4f53-a033-9a2591e15658) 
+
+
+## DATA MANIPULATION / DATA PREPARATION. 
+
+The dataset has 13 attributes with 1047 records from the start and the name of thos attributes are (SALES_ID, SALES_REP,EMAILS,BRANDS,PLANT_COST,UNIT_PRICE,QUANTITY,COST,PROFIT,COUNTRIES,REGION,MONTHS and YEARS).
+
+Let explain the columns in details.
+
+Sales_ID; This is the ID generated for each sales made.
+Sales_Rep; This is the representative who made the sales.
+Brands; The name of the products
+Plant_cost; The price the product was bought from the producer.
+Unit_price; The price company sells each product.
+Quantity; The number of drink sold.
+Cost; The amount the buyer paid to the company in naira(#)
+Profit;(unit_price - plant_cost) * quantity in naira (#)
+Countries; The countrry each sales was made
+Region; What region of Africa does the country falls.
+Months; When was the sales made.
+Years;What year each sales was made. 
+
+
+
+
+
+## ANALYSIS-OF-THE-RESULTS
 
  
 Q1). Within the space of the last three years, what was the profit worth of the breweries,  inclusive of the anglophone and the francophone territories? The company has made a total profit of #105,587,420 across the five (5) countries in Africa from 2017 -2019.
@@ -46,7 +88,7 @@ Q8). Which particular brand generated the highest profit in Senegal? Castle lite
 
 
 
-BRAND-ANALYSIS
+## BRAND-ANALYSIS
 
 
 
@@ -108,7 +150,7 @@ Q9).Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decisio
 
 
 
-GEO-LOCATION ANALYSIS
+## GEO-LOCATION ANALYSIS
 
 
 
@@ -128,6 +170,17 @@ Q2).Highest sales personnel of Budweiser in Senegal
 Q3). Country with the highest profit of the fourth quarter in 2019
 
 <img width="527" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/9328ac2c-ca85-411b-9bb8-d215bc864126">
+
+
+## OBSERVATION 
+ I observed that they made the highest profit in the year 2017, followed by subsequent years and also noticed that some products were more popular than others in some countries and also they also need to make awareness of their products and go to grassroots to find out why some products are more popular than the others.
+
+
+
+
+ ## RECOMMENDATIONS
+
+ 
 
 
 
