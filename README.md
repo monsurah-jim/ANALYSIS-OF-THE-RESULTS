@@ -52,47 +52,56 @@ BRAND ANALYSIS
 
 Q1). Within the last two years, the brand manager wants to know the top three brands consumed in the 
 francophone countries.
+
 <img width="464" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/d087c240-e572-4bd4-9842-e28a3ef1ded6">
 
 
 
 Q2). Find out the top two choice of consumer brands in Ghana
+
 <img width="485" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/a342d05e-b818-4182-8792-ba0bc5e33fcd">
 
 
 
 Q3). Find out the details of beers consumed in the past three years in the most oil rich country in West 
 Africa.
+
 <img width="469" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/029db3ea-9b61-4cb1-8f4e-5d0255dc4933">
 
 
 
 Q4). Favorites malt brand in Anglophone region between 2018 and 2019
+
 <img width="494" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/38c1e921-a23c-4fac-98ad-cc752c7bc186">
 
 
 
 Q5). Which brands sold the highest in 2019 in Nigeria?
+
 <img width="462" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/faad53fa-63d7-40d8-bd5a-322e97ea2010">
 
 
 
 Q6).Favorites brand in South South region in Nigeria
+
 <img width="419" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/f7739df1-5c5a-4486-9f52-487d5a58b45f">
 
 
 
 Q7).Beer consumption in Nigeria
+
 <img width="493" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/fd4425fa-cd5c-4052-a7d0-5b1ae603c146">
 
 
 
 Q8).Level of consumption of Budweiser in the regions in Nigeria
+
 <img width="494" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/fcc4cd12-6ed9-47d1-b2d3-036e93c02864>
 
 
 
-Q9).Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo) 
+Q9).Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)
+
 <img width="407" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/c68830e5-ae5e-4a1d-b1d1-d654b58140ec">
 
 
@@ -104,16 +113,19 @@ GEO-LOCATION ANALYSIS
 
 
 Q1).Country with the highest consumption of beer. 
+
 <img width="470" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/3131df13-d5bf-4d6c-9162-35f8249f578a">
 
 
 
 Q2).Highest sales personnel of Budweiser in Senegal
+
 <img width="463" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/72e7b8a9-5da7-4870-bd2e-d670d61bcb76"> 
 
 
 
 Q3). Country with the highest profit of the fourth quarter in 2019
+
 <img width="527" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/9328ac2c-ca85-411b-9bb8-d215bc864126">
 
 
