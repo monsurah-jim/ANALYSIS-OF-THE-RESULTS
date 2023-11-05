@@ -45,7 +45,7 @@ Q8). Which particular brand generated the highest profit in Senegal? Castle lite
 
 
 
-BRAND ANALYSIS
+BRAND-ANALYSIS
 
 
 
