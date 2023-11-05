@@ -1,8 +1,3 @@
-ANALYSIS- OF- DRINK
-
-This is an analysis of drinks consumption across five countries in Africa from the year 2017-19.
-
-
 
 ANALYSIS-OF-THE-RESULTS
 
