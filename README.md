@@ -3,7 +3,8 @@ Q1). Within the space of the last three years, what was the profit worth of the 
 <img width="545" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/4599bd4f-3f55-43bd-8e79-47482ac7031a">
 
 Q2). Compare the total profits from these two territories, in order for the territory manager Mr.Stone to make a strategic decision that will aid profit maximization in the year 2020. The anglophone territory made the total profit of # 42389260 while the francophone territory made # 63,198160.
-<img width="281" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/f59f9ec2-8685-4695-ab94-f9a287ff9592">
+<img width="372" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/417229d1-145c-4a12-b985-4b161c744daf">
+
 
 Q3). Country that generated the highest profit in 2019. Ghana has the highest profit in the year 2019 the profit was sum to be #7144070.
 <img width="457" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/37f84287-e717-49e8-a9b1-745818af6770">
