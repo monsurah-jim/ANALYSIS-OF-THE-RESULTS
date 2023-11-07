@@ -1,26 +1,19 @@
 ## PROJECT TITLE
 
-The international breweries data recorded for the duration of three years 2017-2019.
-
 
 ##  ANALYSIS- OF-DRINKS
 
-This is an analysis of drinks consumption across five Africa countries for the year 2019.
-
-
-<img width="614" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/8acdf409-ab73-4348-8fc4-07405e4cfe63">
+This is an analysis of drinks consumption across five Africa countries for the year 2019 - 2017
 
 
 ## OBJECTIVES/AIM
 
-There is particularcompany who deals with selling of drinks across Africa countries, the company has different products in Africa, so they need us to help them uncover some insights from their 3 years data so has to help them make decision for the coming fiscal year of 2020.
+There is particular company who deals with selling of drinks across Africa countries, the company has different products in Africa, so they need us to help them uncover some insights from their 3 years data so has to help them make decision for the coming fiscal year of 2020.
 
 
 ## DATA SOURCE
 
 The dataset was gotten from the company and it's a CSV file.
-
-![image](https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/735cdb63-2a0a-4f53-a033-9a2591e15658) 
 
 
 ## DATA MANIPULATION / DATA PREPARATION. 
@@ -43,7 +36,7 @@ Quantity; The number of drink sold.
 
 Cost; The amount the buyer paid to the company in naira(#)
 
-Profit;(unit_price - plant_cost) * quantity in naira (#)
+Profit; (unit_price - plant_cost) * quantity in naira (#)
 
 Countries; The countrry each sales was made
 
@@ -51,7 +44,12 @@ Region; What region of Africa does the country falls.
 
 Months; When was the sales made.
 
-Years;What year each sales was made.
+Years; What year each sales was made. 
+
+For us to answer certain questions a new column was created named LANGUAGE and the main reason is to categorised the countries into ANGLOPHONE and FRANCOPHONE countries i.e countries that speaks english and french
+
+<img width="798" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/7edc81bf-5a8a-4e0e-8622-eb2ee9d3381e">
+
 
 
 
