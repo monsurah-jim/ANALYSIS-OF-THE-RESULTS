@@ -30,17 +30,29 @@ The dataset has 13 attributes with 1047 records from the start and the name of t
 Let explain the columns in details.
 
 Sales_ID; This is the ID generated for each sales made.
+
 Sales_Rep; This is the representative who made the sales.
+
 Brands; The name of the products
+
 Plant_cost; The price the product was bought from the producer.
+
 Unit_price; The price company sells each product.
+
 Quantity; The number of drink sold.
+
 Cost; The amount the buyer paid to the company in naira(#)
+
 Profit;(unit_price - plant_cost) * quantity in naira (#)
+
 Countries; The countrry each sales was made
+
 Region; What region of Africa does the country falls.
+
 Months; When was the sales made.
-Years;What year each sales was made. 
+
+Years;What year each sales was made.
+
 
 
 
