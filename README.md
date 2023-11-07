@@ -51,6 +51,12 @@ For us to answer certain questions a new column was created named LANGUAGE and t
 <img width="798" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/7edc81bf-5a8a-4e0e-8622-eb2ee9d3381e">
 
 
+Brands names were also changed.
+
+<img width="491" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/1fbe102f-313d-4e39-bcc2-6c259c3e1b2d">
+
+
+
 
 
 
