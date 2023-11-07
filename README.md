@@ -118,57 +118,60 @@ Brands names were also changed.
 
 
 
-Q1). Within the last two years, the brand manager wants to know the top three brands consumed in the 
-francophone countries.
+### Q1). Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries.
 
-<img width="464" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/d087c240-e572-4bd4-9842-e28a3ef1ded6">
-
-
-
-Q2). Find out the top two choice of consumer brands in Ghana
-
-<img width="485" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/a342d05e-b818-4182-8792-ba0bc5e33fcd">
+<img width="448" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/21f4836b-41e6-4d93-a473-fb613f227290">
 
 
 
-Q3). Find out the details of beers consumed in the past three years in the most oil rich country in West 
-Africa.
 
-<img width="469" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/029db3ea-9b61-4cb1-8f4e-5d0255dc4933">
+### Q2). Find out the top two choice of consumer brands in Ghana.
 
-
-
-Q4). Favorites malt brand in Anglophone region between 2018 and 2019
-
-<img width="494" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/38c1e921-a23c-4fac-98ad-cc752c7bc186">
+<img width="471" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/4556d374-83a8-4edc-a08f-0f4ad5aabea4">
 
 
 
-Q5). Which brands sold the highest in 2019 in Nigeria?
+
+### Q3). Find out the details of beers consumed in the past three years in the most oil rich country in West Africa.
+
+
+<img width="473" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/0271193c-b4f8-43c8-b0a7-d326c4e54efa">
+
+
+
+
+### Q4). Favorites malt brand in Anglophone region between 2018 and 2019
+
+<img width="476" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/87f916a5-f7c9-4e15-ad1f-4d3d00e3e46f">
+
+
+
+
+### Q5). Which brands sold the highest in 2019 in Nigeria?
 
 <img width="462" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/faad53fa-63d7-40d8-bd5a-322e97ea2010">
 
 
 
-Q6).Favorites brand in South South region in Nigeria
+### Q6).Favorites brand in South South region in Nigeria
 
 <img width="419" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/f7739df1-5c5a-4486-9f52-487d5a58b45f">
 
 
 
-Q7).Beer consumption in Nigeria
+### Q7).Beer consumption in Nigeria
 
 <img width="493" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/fd4425fa-cd5c-4052-a7d0-5b1ae603c146">
 
 
 
-Q8).Level of consumption of Budweiser in the regions in Nigeria
+### Q8).Level of consumption of Budweiser in the regions in Nigeria
 
 <img width="494" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/fcc4cd12-6ed9-47d1-b2d3-036e93c02864>
 
 
 
-Q9).Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)
+### Q9).Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)
 
 <img width="407" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/c68830e5-ae5e-4a1d-b1d1-d654b58140ec">
 
