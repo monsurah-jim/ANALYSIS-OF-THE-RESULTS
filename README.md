@@ -107,8 +107,11 @@ Brands names were also changed.
 
 ### Q8). Which particular brand generated the highest profit in Senegal? Castle lite has the highest price of # 7012980.
 
+<img width="434" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/4d5a2a4c-94e5-43b6-b761-26f3cc564640">
 
-<img width="470" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/38fef54e-a25b-4bd1-b3ef-654c898ccea3">
+
+
+
 
 
 
@@ -167,7 +170,8 @@ Brands names were also changed.
 
 ### Q8).Level of consumption of Budweiser in the regions in Nigeria
 
-<img width="494" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/fcc4cd12-6ed9-47d1-b2d3-036e93c02864>
+<img width="472" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/c190ca5c-25d5-4c2c-b4bc-ca26b05cff7f">
+
 
 
 
