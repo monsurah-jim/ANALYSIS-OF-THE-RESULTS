@@ -201,7 +201,8 @@ Q2).Highest sales personnel of Budweiser in Senegal
 
 Q3). Country with the highest profit of the fourth quarter in 2019
 
-<img width="527" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/9328ac2c-ca85-411b-9bb8-d215bc864126">
+<img width="548" alt="image" src="https://github.com/monsurah-jim/ANALYSIS-OF-THE-RESULTS/assets/148765480/cecac9de-2a59-4c2e-a780-32d43f420e50">
+
 
 
 ## OBSERVATION 
