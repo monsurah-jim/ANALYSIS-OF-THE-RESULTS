@@ -206,7 +206,10 @@ Q3). Country with the highest profit of the fourth quarter in 2019
 
 
 ## OBSERVATION 
- I observed that they made the highest profit in the year 2017, followed by subsequent years and also noticed that some products were more popular than others in some countries and also they also need to make awareness of their products and go to grassroots to find out why some products are more popular than the others.
+1. I observed that they made the highest profit in the year 2017, followed by subsequent years  of  2018 and 2019.
+2. Some products were more popular than others in some countries.
+3. They need to make awareness of their products and go to grassroots to find out why some products are more popular than the others.
+4. The operated in 5 countires in Africa, employed 11 sales representatives and also seven drinks in total.
 
 
 
@@ -218,7 +221,7 @@ Q3). Country with the highest profit of the fourth quarter in 2019
 ## 1.Marketing strategies
 * Analyze sales data to identify trends and fluctuations in different markets.
 * Determine which regions or countries have the highest and lowest sales.
- ## 2. quality control
+ ## 2. Quality control
  Monitor data related to product quality and customer complaints.
  Improve quality control processes to enhance customer satisfaction.
  ## 3. Cost analysis
